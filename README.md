@@ -1,8 +1,9 @@
    <h1>Hello Web</h1>
  
  <ul>
-     <li><a href=""><mark>JAVA</mark></a></li>
-     <li><a href=""><mark>PYHTON</mark></a></li>
-     <li><a href=""></a><mark>HTML</mark></li>
-     <li><a href=""><mark>AI</mark></a></li>
+     <li><a href="https://github.com/application1324/Java"><mark>JAVA</mark></a></li>
+     <li><a href="https://github.com/application1324/python"><mark>PYHTON</mark></a></li>
+     <li><a href="https://github.com/application1324/HTML"><mark>HTML</mark></a></li>
+     <li><a href="https://github.com/application1324/-A.I"><mark>AI</mark></a></li>
 </ul>
+    
