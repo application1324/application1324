@@ -1,4 +1,13 @@
-   <h1>Hello Code</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello coding</h1>
  
  <ul>
      <li><a href="https://github.com/application1324/Java"><mark>JAVA</mark></a></li>
@@ -7,3 +16,5 @@
      <li><a href="https://github.com/application1324/-A.I"><mark>AI</mark></a></li>
 </ul>
     
+</body>
+</html>
