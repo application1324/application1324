@@ -1,19 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-</head>
-<body>
-    <h1>Hello coding</h1>
- 
- <ul>
-     <li><a href="https://github.com/application1324/Java"><mark>JAVA</mark></a></li>
-     <li><a href="https://github.com/application1324/python"><mark>PYHTON</mark></a></li>
-     <li><a href="https://github.com/application1324/HTML"><mark>HTML</mark></a></li>
-     <li><a href="https://github.com/application1324/-A.I"><mark>AI</mark></a></li>
-</ul>
-    </body>
-</html>
+### Hi java👋
+
+<!--
+**ChoiWoong08/ChoiWoong08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
